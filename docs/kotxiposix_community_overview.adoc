@@ -1,0 +1,28 @@
+= Kotxiposix Community Overview
+:toc:
+== Overview 
+
+Kotxiposix Community is a platform concept where you can gain and share knowledge and have fun competing among developers.
+
+It has 2 main trails:
+
+- Training
+- gamification
+
+=== Training
+The main objective of this trail is to make this process of becoming a better developer a little smoother. 
+Each day and each challenge we face, we can share knowledge and experiences in the community, as each has something to offer and each has a lot to offer.
+
+=== Gamification
+And the second track - gamification - in a timely manner we share challenges from different fields of software development in the community, these challenges can be made by you, or rather, you can direct a friend or a tribe to compete together.
+And at the end of a period the community evaluates the submissions for each challenge and the best ones earn points for themselves and their tribe and in the future more prizes as a promotion on the network of jobs or badges and special gadgets
+
+== Actors and Target users
+=== Developers
+This is for you developers fighting each day to become a better developer, for you looking for a tribe and for us looking to build a community
+
+=== Founders
+A founder, a company or someone looking to build MVP's or looking for talents for a project
+
+=== Coaches
+A coach or a senior developer that its available to contribute to the community or available to share experiences in its field of expertise 
