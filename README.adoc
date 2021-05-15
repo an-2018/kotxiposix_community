@@ -1,6 +1,6 @@
 # kotxiposix Community
 
-A community driven platform for learning, teach, create, gamification and inspiration,
+A community driven platform for learning, teach, gamification and inspiration,
 
 == Overview 
 
